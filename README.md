@@ -1,4 +1,4 @@
 # Image-analysis
-Data for: Lab 2: TrainingDataset/TestingDataset
-Data for HOG: training/testing
-Upload them to Driver, then mount them.
+1. Data for: Lab 2: TrainingDataset/TestingDataset
+2. Data for HOG: training/testing
+3. Upload them to Driver, then mount them.
